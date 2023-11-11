@@ -1,3 +1,3 @@
 # TiendaVirtual_Rubi
-mis proyectos durante en segundo semestre 
-de carrera.
+mis proyectos durante el segundo semestre 
+de carrera de software.
