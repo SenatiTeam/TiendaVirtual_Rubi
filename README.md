@@ -1,2 +1,3 @@
 # TiendaVirtual_Rubi
-trabajo no terminado
+mis proyectos durante en segundo semestre 
+de carrera.
